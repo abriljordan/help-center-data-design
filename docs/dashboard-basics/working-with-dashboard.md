@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Dashboard Basics
+title: Working with Dashboard
 nav_order: 2
 has_children: true
 permalink: /dashboard-basics/dashboard-basics
 ---
-# Dashboard Basics
+# Working with Dashboard

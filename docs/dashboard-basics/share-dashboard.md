@@ -1,7 +1,16 @@
 ---
 layout: default
 title: Share dashboard
-parent: Dashboard Basics
-nav_order: 4
+parent: Working with Dashboard
+nav_order: 5
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+# Share and export dashboard
+You can send an email with dashboard reports and export your data.
+1. In your dashboard, click on the Share Arrow button. A pop-up menu appears. You can choose to export it as CSV, Microsoft PowerPoint, PDF, Microsoft Excel, Print, or send as email.
+2. If you choose email, a dialog appears, and fill in required information.
+3. Once you are done, click the Send Email button.
+
+You can also send or export the detailed data from the detail view of an indicator.
+1. Go to: detail view of an indicator.
+2. Double click on the chart. You will be taken to the tabular view of the chart.
+3. Click on the Share arrow button, a dialog appears. You can choose to export it as CSV or Excel.

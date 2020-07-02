@@ -79,6 +79,7 @@ theme: just-the-docs
 collections:
   sites:
     output: true
+    permalink: /sites/:path/
 plugins:
   - jekyll-feed
 

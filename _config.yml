@@ -77,6 +77,9 @@ github_username:  abriljordan
 theme: just-the-docs
 
 collections_dir: docs
+collections:
+  index:
+  about:
 
 
 plugins:

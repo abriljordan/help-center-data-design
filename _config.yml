@@ -79,7 +79,9 @@ github_username:  abriljordan
 theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
 
-
+collections:
+  docs:
+    output: true
 plugins:
   - jekyll-feed
 

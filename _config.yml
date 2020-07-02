@@ -81,6 +81,8 @@ theme: just-the-docs
 collections:
   docs:
     output: true
+  assets:
+    output: true
 plugins:
   - jekyll-feed
 

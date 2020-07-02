@@ -7,6 +7,8 @@ title: Home
 nav_order: 1
 permalink: /
 ---
+## Data Design Dashboard
+{: .fs-9 }
 
 The dashboard provides a snapshot overview of your data. You can customize the dashboard to meet your specific needs and preferences by drilling down and slicing data with a simple mouse-driven interface. It has filtering capabilities to limit the data being displayed in the report based upon specified parameters. You can create customized groups of tiles that when selected display the specified tiles as a pre-configured grouping based upon your specific needs or preferences.
 

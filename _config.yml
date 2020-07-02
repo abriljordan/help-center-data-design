@@ -77,8 +77,8 @@ github_username:  abriljordan
 theme: just-the-docs
 
 collections:
-  _sites:
-
+  sites:
+    output: true
 plugins:
   - jekyll-feed
 

@@ -75,7 +75,7 @@ twitter_username: jekyllrb
 github_username:  abriljordan
 
 # Build settings
-theme: minima
+
 theme: just-the-docs
 
 
